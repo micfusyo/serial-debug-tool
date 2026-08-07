@@ -1,0 +1,8 @@
+# Freebuff 桌面版資料庫（本機專用，勿上傳）
+.freebuff/
+*.db
+*.db-shm
+*.db-wal
+
+# macOS
+.DS_Store
