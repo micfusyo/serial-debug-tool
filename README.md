@@ -63,7 +63,7 @@
 ### 6. 其他
 
 - 右上角 ☀️/🌙 按鈕可切換明暗主題。
-- 「?」圖示連結至使用說明頁（`help.html`，可依需求自行補充）。
+- 「?」圖示連結至 GitHub 專案頁面：https://github.com/micfusyo/serial-debug-tool（在新分頁開啟）。
 
 ## 檔案說明
 
