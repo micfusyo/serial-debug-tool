@@ -67,8 +67,11 @@
 
 ## 檔案說明
 
+📡 **線上版本（GitHub Pages）：** https://micfusyo.github.io/serial-debug-tool/debugtools8.html
+
 | 檔案 | 說明 |
 | --- | --- |
+| `index.html` | 自動導向最新版工具（方便直接開啟根網址） |
 | `debugtools8.html` | 最新版工具（建議使用） |
 | `debugtool7.html` | 舊版工具（無檔案發送、單頁快捷發送） |
 | `README.md` | 本說明文件 |
