@@ -21,7 +21,7 @@
 
 ### 1. 啟動與連接
 
-1. 直接以瀏覽器開啟 `debugtools8.html`（若在本機開發，可用 `python3 -m http.server` 後開啟 `http://localhost:8000/debugtools8.html`）。
+1. 直接以瀏覽器開啟 `index.html` 或 `debugtools8.html`（若在本機開發，可用 `python3 -m http.server` 後開啟 `http://localhost:8000/`）。
 2. 選擇**鮑率**（9600 ~ 4000000，預設 115200）。
 3. 點擊「**連接設備**」，在彈出的視窗中選取要連接的串口裝置。
 4. 按鈕顯示「已連接」即代表連線成功。
@@ -73,7 +73,7 @@
 | --- | --- |
 | `index.html` | 自動導向最新版工具（方便直接開啟根網址） |
 | `debugtools8.html` | 最新版工具（建議使用） |
-| `debugtool7.html` | 舊版工具（無檔案發送、單頁快捷發送） |
+| `debugtool7.html` | 舊版檔名相容入口，自動導向最新版工具 |
 | `README.md` | 本說明文件 |
 
 ## 注意事項
