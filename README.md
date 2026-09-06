@@ -63,7 +63,8 @@
 ### 6. 其他
 
 - 右上角 ☀️/🌙 按鈕可切換明暗主題。
-- 「?」圖示連結至 GitHub 專案頁面：https://github.com/micfusyo/serial-debug-tool（在新分頁開啟）。
+- 右上角「?」圖示連結至線上使用說明：https://notebook.google.com/notebook/aa7dd927-0b9d-432d-be70-c2ce10269663（在新分頁開啟）。
+- 右上角「ⓘ」圖示（位於「?」旁）連結至 GitHub 專案頁面：https://github.com/micfusyo/serial-debug-tool（在新分頁開啟）。
 
 ## 檔案說明
 
@@ -73,8 +74,9 @@
 | --- | --- |
 | `index.html` | 自動導向最新版工具（方便直接開啟根網址） |
 | `debugtools8.html` | 最新版工具（建議使用） |
-| `debugtool7.html` | 舊版檔名相容入口，自動導向最新版工具 |
 | `README.md` | 本說明文件 |
+
+> **刪除說明**：舊版檔案 `debugtool7.html` 已於 2026-09-06 移除。原本透過該檔案連結的使用者請改用 [`debugtools8.html`](debugtools8.html)（或直接開啟 [`index.html`](index.html)，會自動導向最新版）。
 
 ## 注意事項
 
